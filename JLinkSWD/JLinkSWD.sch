@@ -25,10 +25,10 @@ F 3 "~" H 5300 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x10_Odd_Even J2
+L Connector_Generic:Conn_02x10_Odd_Even J1
 U 1 1 5EBEC0E9
 P 7550 2700
-F 0 "J2" H 7550 3200 50  0000 C CNN
+F 0 "J1" H 7550 3200 50  0000 C CNN
 F 1 "Conn_02x10_Odd_Even" H 7575 2100 50  0000 C CNN
 F 2 "Socket_Strips:Socket_Strip_Straight_2x10_Pitch2.54mm" H 7550 2700 50  0001 C CNN
 F 3 "~" H 7550 2700 50  0001 C CNN
@@ -36,10 +36,10 @@ F 3 "~" H 7550 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x08 J1
+L Connector_Generic:Conn_01x08 J2
 U 1 1 5EBF2516
 P 5300 1550
-F 0 "J1" H 5300 1950 50  0000 C CNN
+F 0 "J2" H 5300 1950 50  0000 C CNN
 F 1 "Conn_01x08" H 5125 1050 50  0000 C CNN
 F 2 "Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm" H 5300 1550 50  0001 C CNN
 F 3 "~" H 5300 1550 50  0001 C CNN
