@@ -19,7 +19,7 @@ U 1 1 5EBDAA9D
 P 2050 2900
 F 0 "J2" H 2325 3350 50  0000 R CNN
 F 1 "AVR-ISP-6" H 2475 2550 50  0000 R CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x03_Pitch2.00mm" V 1800 2950 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.00mm" V 1800 2950 50  0001 C CNN
 F 3 " ~" H 775 2350 50  0001 C CNN
 	1    2050 2900
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 5EBDC670
 P 3700 2900
 F 0 "J3" H 4000 3350 50  0000 R CNN
 F 1 "AVR-ISP-6" H 4150 2550 50  0000 R CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x03_Pitch2.54mm" V 3450 2950 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" V 3450 2950 50  0001 C CNN
 F 3 " ~" H 2425 2350 50  0001 C CNN
 	1    3700 2900
 	-1   0    0    -1  
@@ -99,7 +99,7 @@ U 1 1 5EBE0BA3
 P 1750 1350
 F 0 "J1" H 1750 1725 50  0000 C CNN
 F 1 "Conn_01x08_Male" H 1750 875 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm" H 1750 1350 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_1x08_Pitch2.54mm" H 1750 1350 50  0001 C CNN
 F 3 "~" H 1750 1350 50  0001 C CNN
 	1    1750 1350
 	1    0    0    -1  
